@@ -19,25 +19,25 @@
     position: relative;
     z-index: 1;
 }
-.profile .front h1{
+/* .profile .front h1{
     color: #579669;
-}
-.profile .front h2{
+} */
+/* .profile .front h2{
     color: rgb(31, 30, 30);
-}
-.profile .front p{
+} */
+/* .profile .front p{
     padding: 0 34%;
     text-align: center;
-}
+} */
 .profile .img-box{
-    width: 140px;
-    height: 140px;
+    width: 75px;
+    height: 75px;
 }
-.profile .img-box img{
+/* .profile .img-box img{
     width: 100%;
     height: 100%;
     border-radius: 50%;
-}
+} */
 .style-front{
     position: absolute;
     inset: 0px;
